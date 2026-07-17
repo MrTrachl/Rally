@@ -1,5 +1,5 @@
 # rally 📈
-Modern Live Market Platform
+Rally - Modern Live Market Platform
 
 **A live market platform — bridging beautiful data visualization with modern social features.**
 
