@@ -28,7 +28,7 @@ market.** It felt fitting for a platform built to bring the market to life.
 
 ## 📸 Screenshots
 
-| Main Stock View | Live Search |
+| Landing Page | Main Stock View | Live Search | Unavailable Page |
 |-----------------|-------------|
 | ![Main page](docs/screenshot-main.png) | ![Search](docs/screenshot-search.png) |
 
