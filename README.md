@@ -30,7 +30,7 @@ market.** It felt fitting for a platform built to bring the market to life.
 
 | Landing Page | Main Stock View | Live Search | Unavailable Page |
 |--------------|-----------------|-------------|------------------|
-| ![Landing page](screenshots/screenshot-landing.png) |  ![Landing page](screenshots/screenshot-landing.png) | ![Search](screenshots/screenshot-search.png) | ![unavailable page](screenshots/screenshot-landing.png) |
+| ![Landing page](landingpagescreenshot.png) |  ![Landing page](screenshots/screenshot-landing.png) | ![Search](screenshots/screenshot-search.png) | ![unavailable page](screenshots/screenshot-landing.png) |
 
 ---
 
