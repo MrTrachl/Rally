@@ -5,7 +5,9 @@ Modern Live Market Platform
 
 > 🚧 **Actively in development — core loop is live, with more on the way.**
 
-![Rally demo](/video/Rally_Demo_3.mp4)
+
+https://github.com/user-attachments/assets/5a69e5ca-a793-4f03-9c1a-336b857905a5
+
 
 ---
 
