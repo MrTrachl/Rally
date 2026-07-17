@@ -61,7 +61,7 @@ follows.
 ## ✨ Features
 
 - 🔍 **Stock search** — look up any ticker and watch the page fill out with live data
-- 📊 **Live market data** — powered by Massive.com (Polygon.io)
+- 📊 **Live market data** — powered by Massive.com (Polygon.io) and visualized through Highcharts
 - 💬 **Live chat** — modern social functionality built into the platform
 - 🎯 **Layered information hierarchy** — primary data up top, supporting detail on scroll
 
