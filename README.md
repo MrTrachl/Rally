@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/e65740b5-2240-4e99-b3c4-2bff9289d069
 
 ---
 
-## Why Rally?
+## 🔎 Why Rally?
 
 Markets have been overdeveloped when it comes to showing data *many different ways* — but
 rarely in a way that's genuinely **beautiful**, and rarely keeping pace with **modern
