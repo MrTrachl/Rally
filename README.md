@@ -77,7 +77,7 @@ engage through live chat.
 
 ## 🛠️ Tech Stack
 
-- **Front End:** Vanilla JavaScript, HTML5, CSS3 (no frameworks — built from scratch)
+- **Front End:** Vanilla JavaScript, HTML5, CSS3 (no frameworks — built from scratch), Highcharts (JS charting library)
 - **Back End:** Java, Spring Boot
 - **Market Data:** Massive.com (Polygon.io)
 
