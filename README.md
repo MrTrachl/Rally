@@ -86,10 +86,25 @@ engage through live chat.
 ## 🚀 Running Locally
 
 1. Clone the repo
-2. Add your Massive.com (Polygon.io) API key to your application config
+2. Add your Massive.com (Polygon.io) API key to your application config 👉 NEEDED for data to fill in!
 3. Start the Spring Boot backend
 4. Open the front end in your browser
 
+## Running Locally
+
+**Prerequisites:** Java 21+
+
+1.) Clone the repo and enter the folder:
+   ```bash
+   git clone https://github.com/MrTrachl/rally.git
+   cd rally
+
+   polygon.api.key=your_polygon_api_key_here
+
+  3.) Run the App
+  ./mvnw spring-boot:run
+
+4.) Open http://localhost:8080 in your browser!
 ---
 
 *Built by Ian Trachl — [github.com/MrTrachl](https://github.com/MrTrachl)*
