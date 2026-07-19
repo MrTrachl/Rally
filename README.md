@@ -24,7 +24,7 @@ realized yet. Rally was built to bridge those two worlds — beautiful data and 
 social — into a single platform.
 
 The name comes from the data itself: **"Rally" is the single most-used word in the entire
-market.** It felt fitting for a platform built to bring the market to life.
+market -** but more than that it symbolizes a collective effort of investors learning and socializing within the market sphere. It felt fitting for a platform built to bring the market to life. 
 
 ---
 
