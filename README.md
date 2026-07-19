@@ -123,11 +123,13 @@ engage through live chat.
 
 ## 🧗 Challenges 
 
-Technically speaking the most interesting segment to build out was highcharts - ie overriding the default configs and also covering what real time updates to the graph would look like ( a whole diffferent angle I neglected to cover on my intial build out. Not shown, but I ran simulations (utilizing JS) to visualize what data real time in the graph woudl look like to cover this.
+**Highcharts — the most interesting build. The most technically engaging segment was Highcharts: overriding the default configs, and working through what real-time updates to the graph would look like — a whole different angle I'd neglected in my initial build-out. Not shown in the final UI, but I ran simulations in JavaScript to visualize how live, streaming data would render in the graph, which let me cover that case.
 
-Nailing down what looked good from a design standpoint on the page was also difficult since dark backgrounds of a greyish tint often look muddy if not handled correctly, but going too dark can cause too much contrast, so overcoming eyes strain while crafting a aesthetic UI was eye opening.
+**Designing a dark UI without the muddiness. Nailing the design was harder than expected. Dark backgrounds with a greyish tint easily look muddy if not handled carefully, but going too dark introduces harsh contrast. Balancing eye strain against a genuinely aesthetic UI was eye-opening.
 
-The overall layout approach took several different variants before I settled on the final one, ie the one being presented in this repo. Initially, the layout was composed of header, left, main, and right aside, which was scrapped for a partial header, spanning from left aside to right aside, a minimized left nav (with no labels), a main body (with the same span as the header), and the right aside now stretching to the top of the page.
+**Iterating on layout. The overall layout went through several variants before I settled on the one in this repo. The initial version used a header with left, main, and right asides. I scrapped that for a partial header spanning from the left aside to the right aside, a minimized left nav (no labels), a main body matching the header's span, and a right aside now stretching to the top of the page.
+
+**API integration and a deliberate tradeoff. Massive.com was straightforward to work with — the main friction was the free vs. paid tier differences. I considered adding a caching layer to dedupe API calls and stay under the rate limit, but since this is a visualization at its current stage, I made the call to upgrade to the higher tier for simplicity rather than invest the engineering time. A conscious cost/effort tradeoff given the project's level.
 
 ---
 
