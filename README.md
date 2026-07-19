@@ -6,7 +6,6 @@ Rally - Modern Live Market Platform
 > 🚧 **Actively in development — core loop is live, with more on the way.**
 
 
-
 https://github.com/user-attachments/assets/e65740b5-2240-4e99-b3c4-2bff9289d069
 
 
@@ -87,13 +86,13 @@ engage through live chat.
 
 **Prerequisites:** Java 21+
 
-1.) Clone the repo and enter the folder:
+1. Clone the repo and enter the folder:
    
    ```bash
    git clone https://github.com/MrTrachl/rally.git
    cd rally
    ```
- 2.) Add your Massive.com (Polygon.io) API key 👉 required for data to fill in
+ 2. Add your Massive.com (Polygon.io) API key 👉 required for data to fill in
 
    First go into the config
    
@@ -113,12 +112,13 @@ engage through live chat.
    > (which lifts the per-minute request cap) is recommended. This is entirely optional — the demo
    > video above shows the full experience without needing a paid key.
 
- 3.) Run the App
+ 3. Run the App
   
   ```bash
   ./mvnw spring-boot:run
    ```
- 4.) Open http://localhost:8080 in your browser ✨
+ 4. Open http://localhost:8080 in your browser ✨
+    
 ---
 
 *Built by Ian Trachl — [github.com/MrTrachl](https://github.com/MrTrachl)*
