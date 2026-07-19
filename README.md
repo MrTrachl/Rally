@@ -76,7 +76,7 @@ engage through live chat.
 
 ## 🛠️ Tech Stack
 
-- **Front End:** Vanilla JavaScript, HTML5, CSS3 (no frameworks — built from scratch), Highcharts 📈 (JS charting library), Icons from Font Awesome! 💖
+- **Front End:** Vanilla JavaScript, HTML5, CSS3 (no frameworks — built from scratch), Highcharts 📈 (JS charting library), & Icons from Font Awesome 💖
 - **Back End:** Java, Spring Boot
 - **Market Data:** Massive.com (Polygon.io)
 
@@ -89,8 +89,8 @@ engage through live chat.
 1. Clone the repo and enter the folder:
    
    ```bash
-   git clone https://github.com/MrTrachl/rally.git
-   cd rally
+   git clone https://github.com/MrTrachl/Rally.git
+   cd Rally
    ```
  2. Add your Massive.com (Polygon.io) API key 👉 required for data to fill in
 
@@ -100,7 +100,7 @@ engage through live chat.
       cp src/main/resources/secret.properties.example src/main/resources/secret.properties
    ```
 
-   Then add your own API key acquired from Massive.com replacing the your_polygon_api_key_here placeholder
+   Then add your own API key acquired from Massive.com replacing the "your_polygon_api_key_here" placeholder
    ```bash
    polygon.api.key=your_polygon_api_key_here
    ```
