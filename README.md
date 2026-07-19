@@ -115,10 +115,10 @@ engage through live chat.
    > video above shows the full experience without needing a paid key.
 
 3. Run the App
-  
-  ```bash
-  ./mvnw spring-boot:run
-   ```
+
+```bash
+./mvnw spring-boot:run
+```
 4. Open http://localhost:8080 in your browser ✨
     
 ---
