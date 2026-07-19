@@ -93,7 +93,7 @@ engage through live chat.
    git clone https://github.com/MrTrachl/rally.git
    cd rally
    ```
- 2.) Add your Massive.com (Polygon.io) API key 👉 NEEDED for data to fill in
+ 2.) Add your Massive.com (Polygon.io) API key 👉 required for data to fill in
 
    First go into the config
    
@@ -101,7 +101,7 @@ engage through live chat.
       cp src/main/resources/secret.properties.example src/main/resources/secret.properties
    ```
 
-   Then add your own API key acquired from Massive.com replacing the your_polygon_api_key_here constant!
+   Then add your own API key acquired from Massive.com replacing the your_polygon_api_key_here placeholder
    ```bash
    polygon.api.key=your_polygon_api_key_here
    ```
@@ -110,7 +110,7 @@ engage through live chat.
   ```bash
   ./mvnw spring-boot:run
    ```
- 4.) Open http://localhost:8080 in your browser!
+ 4.) Open http://localhost:8080 in your browser ✨
 ---
 
 *Built by Ian Trachl — [github.com/MrTrachl](https://github.com/MrTrachl)*
