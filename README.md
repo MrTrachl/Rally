@@ -121,4 +121,14 @@ engage through live chat.
     
 ---
 
+## 🧗 Challenges 
+
+Technically speaking the most interesting segment to build out was highcharts - ie overriding the default configs and also covering what real time updates to the graph would look like ( a whole diffferent angle I neglected to cover on my intial build out. Not shown, but I ran simulations (utilizing JS) to visualize what data real time in the graph woudl look like to cover this.
+
+Nailing down what looked good from a design standpoint on the page was also difficult since dark backgrounds of a greyish tint often look muddy if not handled correctly, but going too dark can cause too much contrast, so overcoming eyes strain while crafting a aesthetic UI was eye opening.
+
+The overall layout approach took several different variants before I settled on the final one, ie the one being presented in this repo. Initially, the layout was composed of header, left, main, and right aside, which was scrapped for a partial header, spanning from left aside to right aside, a minimized left nav (with no labels), a main body (with the same span as the header), and the right aside now stretching to the top of the page.
+
+---
+
 *Built by Ian Trachl — [github.com/MrTrachl](https://github.com/MrTrachl)*
