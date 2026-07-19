@@ -76,9 +76,11 @@ engage through live chat.
 
 ## 🛠️ Tech Stack
 
-- **Front End:** Vanilla JavaScript, HTML5, CSS3 (no frameworks — built from scratch), Highcharts 📈 (JS charting library), & Icons from Font Awesome 💖
+- **Front End:** Vanilla JavaScript, HTML5, CSS3 (no frameworks — built from scratch),
+- **Icons:** Icons from [Font Awesome](https://fontawesome.com) 💖
+- **Charts:** Driven by [Highcharts](https://www.highcharts.com) 
 - **Back End:** Java, Spring Boot
-- **Market Data:** [Massive](https://massive.com) (Polygon.io) 
+- **Market Data:** Powered by [Massive.com](https://massive.com) (Polygon.io) 
 
 ---
 
