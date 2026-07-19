@@ -78,7 +78,7 @@ engage through live chat.
 
 - **Front End:** Vanilla JavaScript, HTML5, CSS3 (no frameworks — built from scratch), Highcharts 📈 (JS charting library), & Icons from Font Awesome 💖
 - **Back End:** Java, Spring Boot
-- **Market Data:** Massive.com (Polygon.io)
+- **Market Data:** [Massive](https://massive.com) (Polygon.io) 
 
 ---
 
