@@ -3,7 +3,7 @@ Rally - Modern Live Market Platform
 
 **A live market platform — bridging beautiful data visualization with modern social features.**
 
-> 🚧 **Actively in development — core loop is live, with more on the way.**
+> 🚧 **Actively in development since 2024 — core loop is live, with more on the way.**
 
 
 https://github.com/user-attachments/assets/e65740b5-2240-4e99-b3c4-2bff9289d069
