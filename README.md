@@ -139,7 +139,7 @@ API integration and a deliberate tradeoff. Massive.com was straightforward to wo
 
 ## Next Steps
 
-To continue to flesh this out, enhancing the graph, adding Level 2/Level 3 order book data (which will be findable by clicking a swapper on the chat right aside - this will require API queries to Nasdaq Total View API service as the Massive.com API does not include this), and potentially refactoring/designning the stock page header
+To continue to flesh this out: enhancing the graph, adding Level 2/Level 3 order book data (which will be findable by clicking a swapper on the chat right aside - this will require API queries to Nasdaq Total View API service as the Massive.com API does not include this), and potentially refactoring/designing the stock page header are all future considerations.
 
 ---
 
