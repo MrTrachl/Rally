@@ -141,7 +141,7 @@ API integration and a deliberate tradeoff. Massive.com was straightforward to wo
 
 To continue to flesh this out: enhancing the graph, adding Level 2/Level 3 order book data (which will be findable by clicking a swapper on the chat right aside - this will require API queries to Nasdaq Total View API service as the Massive.com API does not include this), and potentially refactoring/designing the stock page header are all future considerations. As a last consideration, Highcharts.js is extremely useful for simple configurations, but a more in depth and fine-tuned graph is actually MORE achievable in HTML Canvas, which may be implemented instead to achieve a more visually stunning graph - albeit increases complexity.
 
-Another interesting aspect has come to my attention that I believe is worth noting: genuinely beautiful applications are intentionally designed with a common schema. Developing components individually and then slamming them together into one pot will create something with structure, yes, but moreover (and unfortunately), inbalance and lack of comformity. The components within this demo application are where they need to be, but they need to be in unison as one family. 
+Another interesting aspect has come to my attention that I believe is worth noting: genuinely beautiful applications are intentionally designed with a common schema. Developing components individually and then slamming them together into one pot will create something with structure, yes, but moreover (and unfortunately), imbalance and lack of conformity. The components within this demo application are where they need to be, but they need to be in unison as one family.
 
 ---
 
